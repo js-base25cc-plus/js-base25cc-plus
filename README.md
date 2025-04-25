@@ -8,8 +8,8 @@
         <span style="font-size: 35px; font-weight: normal;"><em>Build real projects. Grow together. Launch careers.</em></span>
       </div>
     </td>
-    <td align="center" width="75%">
-      <img src="logo.png" alt="JS-Base+ Logo" width="300"/>
+    <td align="center" width="15%">
+      <img src="logo.png" alt="JS-Base+ Logo" width="100"/>
     </td>
   </tr>
 </table>
