@@ -96,6 +96,9 @@ Do you have an idea you'd love to see take shape? Here's how to get it into moti
 - Documentation can then be **expanded collaboratively**
 - A **GitHub Project Kanban board** will be created for task tracking
 - The repo will be open to **all contributors from early setup and planning through to MVP and beyond**
+- Invitation or Acceptance to collaborate on a project will be on a first come first serve bases. The rest can contribute.
+- Interest to be a collaborator will be indicated by way of a PR
+  (PR submit a txt note in a folder with your name, email and github_id on the project repo or accept an invitation)
 - Development continues **as resources and logistics allow**, with no strict MVP cutoff
 
 ---
@@ -105,6 +108,7 @@ Do you have an idea you'd love to see take shape? Here's how to get it into moti
 We’ll **clearly explain why** in a comment:
 - Maybe it needs refining
 - Maybe it's out of scope
+- Maybe same idea has been built before and only reqiures contribution
 - Either way, you'll get feedback and the chance to revise
 
 ---
