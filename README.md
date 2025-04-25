@@ -78,7 +78,7 @@ Do you have an idea you'd love to see take shape? Here's how to get it into moti
 
 ### 🗂️ Submission Process
 
-1. **Fork** the [`jsb-AddProject`](https://github.com/JS-Base/jsb-AddProject) repository.
+1. **Fork** the [`jsb-AddProject`](https://github.com/js-base25cc-plus/jsb-AddProject) repository.
 2. In your fork, create a **new, well-named folder** for your project idea.
 3. Add **preliminary documentation** in that folder:
    - Overview of the idea
